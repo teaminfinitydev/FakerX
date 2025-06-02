@@ -144,6 +144,11 @@ A: It may conflict with other plugins that modify server list responses. Test co
 - [ ] Advanced randomization patterns
 - [ ] Integration with other plugins
 
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/codenexa_sponsor_banner_new.svg" alt="FakerX Sponsor Banner">
+</div>
+
 ## 🆘 Support
 
 - **Issues**: Report bugs on our [GitHub Issues](https://github.com/teaminfinitydev/FakerX/issues) page
@@ -173,7 +178,3 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE
 
 **📝 Note**: FakerX is not affiliated with Mojang Studios or Microsoft.
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/codenexa_sponsor_banner_new.svg" alt="FakerX Sponsor Banner">
-</div>
