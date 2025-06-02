@@ -169,10 +169,11 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/codenexa_sponsor_banner_new.svg" alt="FakerX Sponsor Banner">
-</div>
-
 **⚠️ Disclaimer**: This plugin is designed for legitimate server management purposes. Please ensure you comply with your hosting provider's terms of service and Minecraft's EULA when using this plugin.
 
 **📝 Note**: FakerX is not affiliated with Mojang Studios or Microsoft.
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/codenexa_sponsor_banner_new.svg" alt="FakerX Sponsor Banner">
+</div>
