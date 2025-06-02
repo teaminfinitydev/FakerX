@@ -1,8 +1,8 @@
 # FakerX
 
-<div align="center">
+<div>
   <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/fakerx_banner.svg" alt="FakerX Banner">
-
+</div>
 ![FakerX Logo](https://img.shields.io/badge/FakerX-v1.0.0-brightgreen)
 ![Paper](https://img.shields.io/badge/Paper-1.21+-blue)
 ![Java](https://img.shields.io/badge/Java-21-orange)
@@ -10,7 +10,7 @@
 
 
 A lightweight Minecraft plugin for Paper 1.21+ that displays fake player counts in the server list without spawning actual entities or bots in-game.
-</div>
+
 
 ## 📋 Table of Contents
 
